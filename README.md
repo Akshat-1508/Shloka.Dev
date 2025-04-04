@@ -1,1 +1,13 @@
 # Shloka.Dev
+This is the project that we have done
+
+काव्यपथ (Kavyapath) - A Digital Poetry Platform
+Design a clean and aesthetic website that serves as a platform for poets to write, read, and share
+Hindi poems.
+Features may include:
+• User profile and poem submission
+• Categories like प्रेम, विरह, देशभक्ति, आदि
+• Like, comment, and share options
+• Dark/light mode toggle
+
+This is the final that my team shares with you
